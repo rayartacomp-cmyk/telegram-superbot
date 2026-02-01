@@ -1,0 +1,12 @@
+version: '3.8'
+services:
+  bot:
+    build: .
+    environment:
+      - BOT_TOKEN=${BOT_TOKEN}
+      - TMDB_API_KEY=${TMDB_API_KEY}
+      - GENIUS_TOKEN=${GENIUS_TOKEN}
+    volumes:
+      - ./downloads:/app/downloads
+    restart: always
+    
