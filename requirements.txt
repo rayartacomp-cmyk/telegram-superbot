@@ -1,3 +1,4 @@
+# Versi yang stabil untuk Python 3.9
 pyTelegramBotAPI==4.15.0
 requests==2.31.0
 yt-dlp==2023.12.30
