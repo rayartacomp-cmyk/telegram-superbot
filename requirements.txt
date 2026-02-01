@@ -1,0 +1,12 @@
+pyTelegramBotAPI==4.15.0
+requests==2.31.0
+yt-dlp==2023.12.30
+youtube-search-python==1.6.6
+lyricsgenius==3.0.1
+pytube==15.0.0
+beautifulsoup4==4.12.2
+cloudscraper==1.2.71
+aiohttp==3.9.1
+Flask==2.3.3
+Pillow==10.1.0
+youtubesearchpython==1.6.6
